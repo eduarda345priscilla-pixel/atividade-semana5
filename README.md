@@ -1,6 +1,6 @@
 
 # atividade-semana4
-# Turismo
+# turismo
 
 ## Dados do Aluno
 
