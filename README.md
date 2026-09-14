@@ -1,3 +1,4 @@
+
 # atividade-semana4
 # Momentos & Destinos
 
@@ -17,3 +18,4 @@ com layout responsivo para dispositivos desktop e mobile.
 ## Versão Mobile
 
 ![Versão Mobile](img/celular.png)
+
